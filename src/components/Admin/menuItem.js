@@ -1,0 +1,38 @@
+const menuItems = [
+  {
+    name: "Chocolate Truffle Cake",
+    price: "₹499",
+    img: TruffleCake,
+    desc: "Rich and moist chocolate layered with truffle ganache.",
+    rating: 5,
+    tag: "Bestseller",
+    eggless: true,
+  },
+  {
+    name: "Cupcakes Mix",
+    price: "₹299",
+    img: cupCake,
+    desc: "Assorted cupcakes with creamy frostings and toppings.",
+    rating: 4,
+    tag: "New",
+    eggless: false,
+  },
+  {
+    name: "Fruit Tart",
+    price: "₹349",
+    img: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80",
+    desc: "Crispy tart filled with custard and fresh seasonal fruits.",
+    rating: 4,
+    tag: "",
+    eggless: true,
+  },
+  {
+    name: "Strawberry Cheesecake",
+    price: "₹399",
+    img: "https://images.unsplash.com/photo-1612197592493-d09f9d79d2a4?auto=format&fit=crop&w=800&q=80",
+    desc: "Creamy cheesecake with a delicious strawberry glaze.",
+    rating: 5,
+    tag: "Customer Favorite",
+    eggless: false,
+  },
+];
